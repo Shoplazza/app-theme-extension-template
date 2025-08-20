@@ -1,17 +1,9 @@
 {
-  "name": "test_base_extension",
+  "name": "test_theme_extension",
   "version": "1.0.0",
-  "description": "theme basic extension",
+  "description": "theme extension",
   "main": "null",
-  "scripts": {
-    "start": "shoplazza te serve",
-    "build": "shoplazza te build",
-    "deploy": "shoplazza te deploy",
-    "versions": "shoplazza te versions",
-    "list": "shoplazza te list",
-    "connect": "shoplazza te connect",
-    "release": "shoplazza te release"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC"
